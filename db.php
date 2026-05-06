@@ -5,8 +5,8 @@
 // ============================================================
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');       // Change to your MySQL username
-define('DB_PASS', 'Ivan@2026');           // Change to your MySQL password
+define('DB_USER', 'root');       
+define('DB_PASS', 'Ivan@2026');           
 define('DB_NAME', 'umu_events');
 
 // Upload paths
